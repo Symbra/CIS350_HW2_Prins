@@ -12,4 +12,6 @@
 * Training in Java
 	
 * Some expirience in the IT field
+
+
 ![alt text](https://i.imgur.com/PoqQPdH.png)
