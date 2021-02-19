@@ -1,14 +1,14 @@
 # CIS350_HW2_Prins
-Interests:
+# Interests:
 
-	*3D Design
+* 3D Design
 	
-	*Photoshop
+* Photoshop
 	
-	*Java
+* Java
 	
-Technical Background:
+# Technical Background:
 
-	*Training in Java
+* Training in Java
 	
-	*Some expirience in the IT field
+* Some expirience in the IT field
